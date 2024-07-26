@@ -9,6 +9,6 @@ class MiExcepcion(Exception):
 
 #manejandola
 try:
-    raise MiExcepcion("Jajajajaja, persona poco culta")
+    raise MiExcepcion("Jajajajaja, Te equivocaste,persona poco culta")
 except:
     print("Como vas a cometer ese error?")
